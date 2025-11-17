@@ -1,0 +1,5 @@
+touch test.txt
+git status  -- to check the status of file created
+git add test.txt -- to track for using it to commit
+git restore --staged test.txt -- to unstage the file
+git commit -m "Adding a new file for testing" -- to commit changes and also prints the message
