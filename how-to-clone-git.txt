@@ -1,0 +1,6 @@
+First we will create a repository in our github account.
+Then we will copy its HTTPS or SSH or CLI.
+Then we go to our terminal and make a directory to store it
+// mkdir project
+// cd project
+// git clone http-link
