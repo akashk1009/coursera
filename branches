@@ -1,0 +1,8 @@
+Creating new branch
+git checkout -B feature/lesson -- we will create a new branch and switch to the new branch
+git branch -- to verify if we have moved to new branch
+touch test2.txt
+git add test2.txt
+git commit -m "Add test2.txt" -- adds test2.txt to feature/lesson branch printing the message also
+git push -u origin feature/lesson -- to push it to the remote location i.e. github
+git checkout main -- to get back to main branch
